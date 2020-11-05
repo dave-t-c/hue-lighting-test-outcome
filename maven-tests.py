@@ -3,7 +3,7 @@ import time
 from phue import Bridge
 
 # Input the correct IP for your bridge. 
-# To connect, press the button on the top of the hub, then run the script within 30 seconds.
+# To connect, press the button on the top of the bridge, then run the script within 30 seconds.
 bridge = Bridge('Bridge IP')
 bridge.connect()
 
